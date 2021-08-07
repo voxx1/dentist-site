@@ -1116,6 +1116,9 @@ span.middle-line:after {
   margin-top: 60px;
   margin-bottom: 40px;
 }
+.offers .info-text {
+  margin: 1.25rem;
+}
 
 .block {
   box-shadow: 0 5px 10px 0 rgb(0 0 0 / 10%);
