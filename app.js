@@ -133,7 +133,7 @@ $.fn.jQuerySimpleCounter = function( options ) {
 };
 
 
-$('#number1').jQuerySimpleCounter({end: 69696,duration: 25000});
+$('#number1').jQuerySimpleCounter({end: 22,duration: 25000});
 $('#number2').jQuerySimpleCounter({end: 155,duration: 25000});
 $('#number3').jQuerySimpleCounter({end: 11,duration: 25000});
 $('#number4').jQuerySimpleCounter({end: 24,duration: 25000});
