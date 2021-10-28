@@ -1168,10 +1168,6 @@ span.middle-line:after {
 
 .parallax {
   position: relative;
-  background-position: center;
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-attachment: fixed;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1185,9 +1181,9 @@ span.middle-line:after {
   height: 300px;
   -o-object-fit: cover;
      object-fit: cover;
-  background-attachment: fixed;
-  background-position: center center;
+  background-position: center;
   background-size: cover;
+  margin: 20px 0 20px 0;
 }
 
 .img2 {
@@ -1195,9 +1191,9 @@ span.middle-line:after {
   height: 300px;
   -o-object-fit: cover;
      object-fit: cover;
-  background-attachment: fixed;
-  background-position: center center;
+  background-position: center;
   background-size: cover;
+  margin: 20px 0 20px 0;
 }
 
 .carousel-caption {
